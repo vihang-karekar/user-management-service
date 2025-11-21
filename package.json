@@ -1,0 +1,17 @@
+{
+    "name": "user-management-service",
+    "version": "1.0.0",
+    "main": "src/app.js",
+    "scripts": {
+      "start": "node src/app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.10.9",
+      "config": "^3.3.6",
+      "jsonwebtoken": "^8.5.1",
+      "express-validator": "^6.6.0",
+      "winston": "^3.3.3"
+    }
+  }
+  
