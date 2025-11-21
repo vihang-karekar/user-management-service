@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "mongoURI": "mongodb://root:A4hMOLL4lnKpKGOjYLU9jIqL@172.21.142.235:27017",
+    "jwtSecret": "your_jwt_secret"
+}  
